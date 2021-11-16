@@ -1,12 +1,8 @@
 /**
 * @file  thread.h
-* @author chenxueyou
+* @author zwm
 * @version 0.1
 * @brief   :A asymmetric coroutine library for C++
-* History
-*      1. Date: 2014-12-12 
-*          Author: chenxueyou
-*          Modification: this file was created 
 */
 
 #ifndef MY_UTHREAD_H
